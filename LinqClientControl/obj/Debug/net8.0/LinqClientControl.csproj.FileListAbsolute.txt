@@ -1,0 +1,14 @@
+C:\Users\Jeff\Documents\estudos\c#\LinqClientControl\LinqClientControl\bin\Debug\net8.0\LinqClientControl.exe
+C:\Users\Jeff\Documents\estudos\c#\LinqClientControl\LinqClientControl\bin\Debug\net8.0\LinqClientControl.deps.json
+C:\Users\Jeff\Documents\estudos\c#\LinqClientControl\LinqClientControl\bin\Debug\net8.0\LinqClientControl.runtimeconfig.json
+C:\Users\Jeff\Documents\estudos\c#\LinqClientControl\LinqClientControl\bin\Debug\net8.0\LinqClientControl.dll
+C:\Users\Jeff\Documents\estudos\c#\LinqClientControl\LinqClientControl\bin\Debug\net8.0\LinqClientControl.pdb
+C:\Users\Jeff\Documents\estudos\c#\LinqClientControl\LinqClientControl\obj\Debug\net8.0\LinqClientControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeff\Documents\estudos\c#\LinqClientControl\LinqClientControl\obj\Debug\net8.0\LinqClientControl.AssemblyInfoInputs.cache
+C:\Users\Jeff\Documents\estudos\c#\LinqClientControl\LinqClientControl\obj\Debug\net8.0\LinqClientControl.AssemblyInfo.cs
+C:\Users\Jeff\Documents\estudos\c#\LinqClientControl\LinqClientControl\obj\Debug\net8.0\LinqClientControl.csproj.CoreCompileInputs.cache
+C:\Users\Jeff\Documents\estudos\c#\LinqClientControl\LinqClientControl\obj\Debug\net8.0\LinqClientControl.dll
+C:\Users\Jeff\Documents\estudos\c#\LinqClientControl\LinqClientControl\obj\Debug\net8.0\refint\LinqClientControl.dll
+C:\Users\Jeff\Documents\estudos\c#\LinqClientControl\LinqClientControl\obj\Debug\net8.0\LinqClientControl.pdb
+C:\Users\Jeff\Documents\estudos\c#\LinqClientControl\LinqClientControl\obj\Debug\net8.0\LinqClientControl.genruntimeconfig.cache
+C:\Users\Jeff\Documents\estudos\c#\LinqClientControl\LinqClientControl\obj\Debug\net8.0\ref\LinqClientControl.dll
